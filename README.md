@@ -1,8 +1,8 @@
- ### Name: Ragul M
- ### Register No: 212221230080
- ### Experiment 1
- ### DATE: 05.03.2024
- ###                                               Implementation of Bayesian Networks
+ <H3> Name: Ragul M</H3>
+<H3>Register No: 212221230080</H3>
+<H3> Experiment - 1</H3>
+<H3>DATE: 05-03-2024</H3>
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
  ## Aim :
     To create a bayesian Network for the given dataset in Python
  ## Algorithm:
